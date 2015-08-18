@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Multiple Screen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Menu_array">
+
+        <item>Gowtham</item>
+        <item>Raghu</item>
+        <item>Yuvraj</item>
+        <item>Mithun</item>
+        <item>Arun</item>
+        <item>Arul</item>
+</string-array>
+</resources>
