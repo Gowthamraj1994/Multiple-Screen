@@ -11,13 +11,11 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-
 public class MenuFragment extends Fragment {
 
 ListView listView;
     ArrayAdapter<String> adapter;
     String menu[];
-    int test;
     Personselected personselected;
     @Nullable
     @Override
